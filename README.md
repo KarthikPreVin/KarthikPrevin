@@ -48,8 +48,6 @@
 
 ### 🌟 Let's Connect!
 
-
-Add your social links here as you like
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthik-vinod-10a410305/)
 <!--
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](your-twitter-url)
