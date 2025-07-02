@@ -12,11 +12,10 @@
 ### 🚀 About Me
 
 - 🎓 Prefinal year Computer Science student at SSN College of Engineering
-- 🐍 Python pro (and loving it!)
+- 🐍 Love to automate stuff with python.
 - ☕ Experienced in C & Java
 - 🌐 Building with HTML, CSS, JS, and basic web frameworks
-- 🤖 AI/ML enthusiast — always exploring the latest in artificial intelligence
-- ⚡ Driven by the thought that "AI is chasing me"!
+- 🤖 AI/ML enthusiast — exploring into the field of AI.
 
 ---
 
