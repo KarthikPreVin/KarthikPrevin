@@ -47,7 +47,7 @@
 
 ### Leetcode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/KarthikPreVin)](https://leetcode.com/KarthikPreVin)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/KarthikPreVin?ext=heatmap)](https://leetcode.com/KarthikPreVin)
 
 ---
 
