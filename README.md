@@ -45,6 +45,12 @@
 
 ---
 
+### Leetcode Stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/user9761l)](https://leetcode.com/user9761l)
+
+---
+
 ### 🌟 Let's Connect!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthik-vinod-10a410305/)
