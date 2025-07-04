@@ -1,7 +1,7 @@
 <!--
 **KarthikPreVin/KarthikPreVin** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img width=100 height=100 src = "https://wallpapers.com/images/featured/devil-boy-qhxt88ddbuwgm3f8.webp" alt="profile pic" />
+<img width=200 height=200 style="border-radius: 50%;" src = "https://wallpapers.com/images/featured/devil-boy-qhxt88ddbuwgm3f8.webp" alt="profile pic" />
 <h1 align="center">Hi, I'm Karthik!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Prefinal+Year+CSE+@+SSN;AI%2FML+Enthusiast;Proficient+in+Python;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
